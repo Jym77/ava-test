@@ -1,0 +1,12 @@
+{
+  "name": "ava-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Jym77/ava-test.git",
+  "author": "Jean-Yves Moyen <jym@siteimprove.com>",
+  "license": "MIT",
+  "packageManager": "yarn@3.5.0",
+  "devDependencies": {
+    "ava": "^5.2.0"
+  }
+}
